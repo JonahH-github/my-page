@@ -1,0 +1,16 @@
+body {
+    background-color: #181818;
+}
+
+h1 {
+    font-size: 100px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: crimson;
+}
+h5 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: gray;
+}
+
