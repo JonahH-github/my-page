@@ -1,3 +1,3 @@
 # my-page
 
-it has links to here
+view at: https://jonahh-github.github.io/my-page/
