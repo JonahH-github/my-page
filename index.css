@@ -75,7 +75,7 @@ div.container {
 .center {
     margin: auto;
     margin-top: 12px;
-    width: 50%;
+    width: 65%;
     border: 2px solid var(--foreground);
 
     padding: 16px 16px;
